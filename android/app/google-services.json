@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986169779929",
+    "project_id": "shopbeeflutter",
+    "storage_bucket": "shopbeeflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986169779929:android:22f56760d98dd8d78c80c8",
+        "android_client_info": {
+          "package_name": "com.example.saleshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986169779929-i2ejamrnnrgfpdcg204tnpdt3qb9jo6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAoZYr3z2nm9z4IxXhnbTn3_7DIyxk9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986169779929-i2ejamrnnrgfpdcg204tnpdt3qb9jo6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
